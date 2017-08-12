@@ -1,7 +1,7 @@
-### Modern Portfolio Theory
+# Modern Portfolio Theory
 ## Monte Carlo Simulation
 
-# Solution of simulation execution is presented below:
+### Solution of simulation execution is presented below:
 
 | Portfolio Type        | Median 20th Year | 10% Best Case | 10% Worst Case |
 | --------------------- | ---------------- | ------------- | -------------- |
